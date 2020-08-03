@@ -1,4 +1,8 @@
 ### Hi there 👋
+A 15-year old who likes to code. I like to code, coding is fun. Also everything about computers, I nerd out about. I also like to write and make stories!
+#### Main Languages: C# and Python
+#### Also knows: HTML, CSS, JS, Batchfile and GDScript.
+
 
 <!--
 **tonymoooon543/tonymoooon543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
