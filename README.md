@@ -1,7 +1,7 @@
 ### Hi there 👋
 A 15-year old who likes to code. I like to code, coding is fun. Also everything about computers, I nerd out about. I also like to write and make stories!
 #### Main Languages: C# and Python
-#### Also knows: HTML, CSS, JS, Batchfile and GDScript.
+#### Also knows: HTML, CSS, JS, Batchfile, Java and GDScript.
 
 
 <!--
