@@ -1,23 +1,14 @@
 ### Hi there 👋
-A 15-year old who likes to code. I like to code, coding is fun. Also everything about computers, I nerd out about. I also like to write and make stories!
-#### Main Languages: C# and Python
-#### Also knows: HTML, CSS, JS, Batchfile, C++/C and GDScript.
+A 15-year old who likes to code.
 
 
-<!--
-**tonymoooon543/tonymoooon543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Almost anything
+- 🌱 I’m currently learning: More of Python librarys 
+- 📫 How to reach me: Dm on Twitter @jbstepan or email me Personal: tonymoooon543@gmail.com School: jaoto23@icstudents.org
+- 😄 Pronouns: He/Him/His
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Main Languages: C# and Python
+- Also knows: HTML, CSS, JS, Batchfile, C++/C and GDScript.
 
 [![JB's Github Stats](https://github-readme-stats.vercel.app/api?username=tonymoooon543)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonymoooon543&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
