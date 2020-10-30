@@ -11,6 +11,6 @@ A 15-year old who likes to code.
 - Also knows: HTML, CSS, JS, Batchfile, C++/C and GDScript.
 
 [![JB's Github Stats](https://github-readme-stats.vercel.app/api?username=tonymoooon543)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonymoooon543&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
