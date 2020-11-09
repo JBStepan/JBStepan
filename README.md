@@ -3,7 +3,7 @@ A 15-year old who likes to code.
 
 
 - 🔭 I’m currently working on: POECalculator 
-- 🌱 I’m currently learning: More of C# and the LSPDFR Api
+- 🌱 I’m currently learning: The [LSPDFR](https://www.lcpdfr.com/) API
 - 📫 How to reach me: Dm on Twitter @jbstepan or email me Personal: tonymoooon543@gmail.com School: jaoto23@icstudents.org
 - 😄 Pronouns: He/Him/His
 
