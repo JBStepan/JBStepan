@@ -7,8 +7,8 @@ A 15-year old who likes to code.
 - How to reach me: Dm on Twitter @jbstepan or email me Personal: tonymoooon543@gmail.com School: jaoto23@icstudents.org
 - Pronouns: He/Him/His
 
-- Main Languages: C# and Python
-- Also knows: HTML, CSS, JS, Batchfile, C++/C and GDScript.
+- Main Languages: C#, Python and [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html?highlight=gdscript)
+- Also knows: HTML, CSS, JS, Batchfile and C++/C.
 
 > Yes that is baby yoda, and no I did not get permisson from Disney, sue me
 
