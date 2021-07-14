@@ -1,9 +1,9 @@
 ### Hi there 👋
-A 15-year old who likes to code.
+A 16-year old who likes to code.
 
 
-- I’m currently working on: [Triside](https://github.com/tonymoooon543/Triside)
-- I’m currently learning: [Godot Engine](https://www.godotengine.org)
+- I’m currently working on: Nothing Really, just vibing
+- I’m currently learning: [Fallout 4 Creation Kit](https://www.creationkit.com/fallout4/index.php?title=Main_Page)
 - How to reach me: Dm on Twitter @jbstepan or email me Personal: tonymoooon543@gmail.com School: jaoto23@icstudents.org
 - Pronouns: He/Him/His
 
