@@ -9,6 +9,7 @@ A 16-year old who likes to code.
 
 - Main Languages: C#, Python and [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html?highlight=gdscript)
 - Also knows: HTML, CSS, JS, Batchfile and C++/C.
+- Quickly Relearnable: Lua
 
 > Yes that is baby yoda, and no I did not get permisson from Disney, sue me
 
