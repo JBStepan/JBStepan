@@ -2,7 +2,7 @@
 A 16-year old who likes to code.
 
 - I’m currently working on: Nothing Really, just vibing
-- I’m currently learning: [Svelte](https://svelte.dev/)
+- I’m currently learning: [Discord.js](https://discord.js.org)
 - How to reach me: Dm on Twitter @jbstepan or email me Personal: tonymoooon543@gmail.com
 - Pronouns: He/Him/His
 
