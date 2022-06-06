@@ -1,5 +1,5 @@
 ### Hi there 👋
-A 16-year old who likes to code.
+A 17-year old who likes to code.
 
 - I’m currently working on: [JB Bot](https://github.com/tonymoooon543/JB-Bot) and [Archiver Bot](https://github.com/tonymoooon543/Archiver-Bot)
 - I’m currently learning: [Discord.js](https://discord.js.org)
