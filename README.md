@@ -6,8 +6,8 @@ A 17-year old who likes to code.
 - How to reach me: Dm on Twitter @jbstepan or email me Personal: tonymoooon543@gmail.com
 - Pronouns: He/Him/His
 
-- Main Languages: Typescript, C#, Python, and [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html?highlight=gdscript)
-- Also knows: HTML, CSS, Vue
+- Main Languages: Typescript, C#, and [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html?highlight=gdscript)
+- Also knows: HTML, CSS, Vue, Python
 
 > Yes that is baby yoda, and no I did not get permisson from Disney, sue me
 
