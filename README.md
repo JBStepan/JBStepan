@@ -11,5 +11,5 @@ A 17-year old who likes to code.
 
 > Yes that is baby yoda, and no I did not get permisson from Disney, sue me
 
-![JB Stepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBStepan&show_icons=true&count_private=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBStepan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![JB Stepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBStepan&show_icons=true&count_private=true&theme=dark) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBStepan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
