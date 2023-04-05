@@ -1,5 +1,5 @@
 ### Hi there 👋
-A 17-year old who likes to code.
+A 18-year old who likes to code.
 
 - I’m currently working on: Various things 
 - I’m currently learning: PyCord and various APIs
