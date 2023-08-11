@@ -11,4 +11,5 @@ A 18-year old who likes to code.
 
 > Yes that is baby yoda, and no I did not get permisson from Disney, sue me
 
-![JB Stepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBStepan&show_icons=true&count_private=true&theme=dark) <br>
+### My own Gitlab
+In the future I will create and mantain projects over at [gitlab.jbstepan.com](gitlab.jbstepan.com). If you would like to request an account, please fill out [this form](https://forms.gle/LN5UkHvsLUb58NLq8).
