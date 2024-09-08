@@ -1,5 +1,5 @@
 ### Hi there 👋
-A 18-year old who likes to code.
+A 19-year old who likes to code.
 
 - I’m currently working on: Various things 
 - I’m currently learning: Docker and cloud stuff
