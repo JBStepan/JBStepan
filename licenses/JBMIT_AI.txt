@@ -7,7 +7,8 @@ sell copies of the Software, and to permit persons to whom the Software is furni
 subject to the following conditions:
 
 AI Use Prohibition
-Restriction: The Software, in whole or in part, shall not be used for the purpose of developing, training, testing, or deploying artificial intelligence (AI) or machine learning (ML) systems or applications.
+Restriction: The Software, in whole or in part, shall not be used for the purpose of developing, training, testing,
+or deploying artificial intelligence (AI) or machine learning (ML) systems or applications.
 
 Scope: This includes, but is not limited to:
 
