@@ -10,4 +10,4 @@ A 19-year old who likes to code.<br>
 - Main Languages: Typescript/Javascript, Python, GDScript
 - Also knows: HTML, CSS, C#, Linode, Vultr, Docker, Bash,
 
-> Yes that is baby yoda, and no I did not get permisson from Disney, sue m
+> Yes that is baby yoda, and no I did not get permisson from Disney, sue me
