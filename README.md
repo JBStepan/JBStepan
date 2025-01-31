@@ -8,6 +8,6 @@ I'm 19 and COVID lockdowns lead me here<br>
 - Pronouns: He/Him/His
 
 - Main Languages: Typescript/Javascript, Python, GDScript
-- Also knows: HTML, CSS, C#, Linode, Vultr, Docker, Bash,
+- Also knows: HTML, CSS, C#, Linode, Docker, Bash
 
 > Yes that is baby yoda, and no I did not get permisson from Disney, sue me
